@@ -14,7 +14,7 @@
 ![Fibonacci Function Input](https://github.com/arjoseven/assignment-one/assets/158103825/96615215-8b50-43c8-8aa2-784fb8287be7)
 
 **Output (Graph):**
-![Fibonacci Function Output (Graph)](https://github.com/arjoseven/assignment-one/assets/158103825/fa80dca2-6db8-440f-b2f2-63e107414db5)
+![fib](https://github.com/arjoseven/assignment-one/assets/158103825/d5b860a7-876b-45e2-8471-d63b9eccc549)
 
 **Output (Code):**
 ![Fibonacci Function Output (Code)](https://github.com/arjoseven/assignment-one/assets/158103825/b288647a-3cac-4d41-bce6-7c091e2d4f50)
