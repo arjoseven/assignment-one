@@ -10,9 +10,11 @@ The output
 
 #fib function
 The Input
-![Image 1-31-24 at 6 44 PM](https://github.com/arjoseven/assignment-one/assets/158103825/366030f4-9321-46b9-940f-b9f2064f984b)
+<img width="565" alt="Screenshot 2024-01-31 at 7 06 09 PM" src="https://github.com/arjoseven/assignment-one/assets/158103825/96615215-8b50-43c8-8aa2-784fb8287be7">
 
 The output (Graph)
-![Image 1-31-24 at 6 45 PM](https://github.com/arjoseven/assignment-one/assets/158103825/99c45195-759b-444f-ada8-59fb93a1e089)
+<img width="883" alt="Screenshot 2024-01-31 at 7 07 02 PM" src="https://github.com/arjoseven/assignment-one/assets/158103825/fa80dca2-6db8-440f-b2f2-63e107414db5">
+
 
 The output (code)
+<img width="509" alt="Screenshot 2024-01-31 at 7 05 36 PM" src="https://github.com/arjoseven/assignment-one/assets/158103825/b288647a-3cac-4d41-bce6-7c091e2d4f50">
